@@ -8,9 +8,13 @@ p {
     font-size: 17px;
     color: #05445E;
 }
-h1, h2 {
+h1 {
     font-family: "Playfair Display";
     font-size: 35px;
+    color: #189AB4;
+}
+h2 {
+    font-family: "Playfair Display";
     color: #189AB4;
 }
 h1, h2, p {
