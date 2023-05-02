@@ -21,6 +21,10 @@ h1, h2, p {
     max-width: 90ch;
     line-height: 150%;
 }
-h1, h2, p, div, il {
+h1, h2, p, div {
     background-color: #D4F1F4;
+}
+ul {
+    background-color: #000099;
+    color: #ffffff;
 }
