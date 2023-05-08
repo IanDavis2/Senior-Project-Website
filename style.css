@@ -25,7 +25,12 @@ h1, h2, p, div {
     background-color: #D4F1F4;
 }
 ul {
-    background-color: #000099;
+    background-color: #D4F1F4;
+}
+li {
+    float: left;
+    padding: 14px;
+    background-color: #D4F1F4;
 }
 a:link {
     color: #ffffff;
@@ -35,8 +40,6 @@ a:hover{
     color: #ffffff;
 }
 a {
-    color: #189AB4;
-}
-background-color: {
-    #D4F1F4
+    color: #0000ff;
+    font-family: "Calibri";
 }
