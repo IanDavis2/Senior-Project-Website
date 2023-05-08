@@ -26,12 +26,17 @@ h1, h2, p, div {
 }
 ul {
     background-color: #000099;
-    color: #ffffff;
 }
 a:link {
-    color: #0033cc;
-    
+    color: #ffffff;
+    text-decoration: none;
 }
 a:hover{
     color: #ffffff;
+}
+a {
+    color: #189AB4;
+}
+background-color: {
+    #D4F1F4
 }
