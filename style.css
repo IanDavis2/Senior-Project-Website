@@ -32,13 +32,11 @@ li {
     padding: 14px;
     background-color: #D4F1F4;
 }
-a:link {
-    text-decoration: none;
-}
 a:hover{
     color: #ffffff;
 }
 a {
     color: #0000ff;
     font-family: "Calibri";
+    text-decoration: none;
 }
