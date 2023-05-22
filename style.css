@@ -38,7 +38,7 @@ nav a:hover{
 }
 nav a {
     color: #3399ff;
-    font-family: "Calibri";
+    font-family: 'Playfair Display', serif;
     text-decoration: none;
     display: block;
     padding: 14px;
