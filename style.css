@@ -22,7 +22,7 @@ h1, h2 {
     color: #189AB4;
 }
 h1, h2, p {
-    max-width: 90ch;
+    max-width: 180ch;
 }
 nav {
     margin-bottom: 5px;
